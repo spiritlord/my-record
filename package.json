@@ -1,0 +1,14 @@
+{
+  "name": "myRecord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gaohao <18510663217@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.49"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
