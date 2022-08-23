@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-bca21e54","path":"/my-blog/0transmigration/forum.html","title":"\u6F02\u4EAE\u7684\u6843\u59D0\u7684\u4F5C\u4E1A","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"my-blog/0transmigration/forum.md"}');export{t as data};
